@@ -8,7 +8,6 @@ import initanimaScroll from './modules/animaScroll.js'
 import initFuncionamento from './modules/funcionamento.js'
 import initfetchAnimais from './modules/fetchanimais.js'
 import initfetchBitcoins from './modules/bitcoinfetch.js'
-import teste from './modules/teste.js'
 
 initTabNav();
 initAccordion();
@@ -20,7 +19,6 @@ initanimaScroll();
 initFuncionamento();
 initfetchAnimais();
 initfetchBitcoins();
-teste();
 
 
 
